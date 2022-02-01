@@ -2,8 +2,9 @@
 {"name":"nbk_cstyle_killfeed","version":1628401941},
 {"name":"nbk_deadmessage","version":1628401941},
 {"name":"nbk_damagemessage","version":1627392112},
-{"name":"nbk_vchud","version":1627392112},
-{"name":"nbk_3hud","version":1627392112},
+{"name":"nbk_vchud","version":1643712914},
+{"name":"nbk_3hud","version":1643712914},
 {"name":"nbk_sahud","version":1627392112},
-{"name":"nbk_ivhud","version":1628401941}
+{"name":"nbk_ivhud","version":1628401941},
+{"name":"tasksync","version":1643712914}
 }
